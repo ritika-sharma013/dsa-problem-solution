@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/ritika-sharma013/dsa-problem-solution/tree/master/0032-longest-valid-parentheses) |
+| [0539-minimum-time-difference](https://github.com/ritika-sharma013/dsa-problem-solution/tree/master/0539-minimum-time-difference) |
 | [0678-valid-parenthesis-string](https://github.com/ritika-sharma013/dsa-problem-solution/tree/master/0678-valid-parenthesis-string) |
 ## Dynamic Programming
 |  |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0539-minimum-time-difference](https://github.com/ritika-sharma013/dsa-problem-solution/tree/master/0539-minimum-time-difference) |
 | [2553-separate-the-digits-in-an-array](https://github.com/ritika-sharma013/dsa-problem-solution/tree/master/2553-separate-the-digits-in-an-array) |
 ## Simulation
 |  |
@@ -33,4 +35,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/ritika-sharma013/dsa-problem-solution/tree/master/0678-valid-parenthesis-string) |
+## Math
+|  |
+| ------- |
+| [0539-minimum-time-difference](https://github.com/ritika-sharma013/dsa-problem-solution/tree/master/0539-minimum-time-difference) |
+## Sorting
+|  |
+| ------- |
+| [0539-minimum-time-difference](https://github.com/ritika-sharma013/dsa-problem-solution/tree/master/0539-minimum-time-difference) |
 <!---LeetCode Topics End-->
