@@ -1,27 +1,20 @@
 class Solution {
     public int minAddToMakeValid(String s) {
-        
-        Stack<Character> st = new Stack();
-        int n = s.length();
+
         int count = 0;
+        int ans = 0;
 
-        for(int i =0; i<n; i++){
-            char ch = s.charAt(i);
-
+        for(char ch : s.toCharArray()){
             if(ch=='('){
-                st.push(ch);
-
-            }
-
-            else{ // if ch == ')'
-            if( !st.isEmpty() && st.peek() == '('){
-                st.pop();
-            }
-            else{
                 count++;
             }
+            else{  // ch==')'
+            if(count >0) count--;
+            else{
+                ans++;
+            }
+            }
         }
-    }
-      return count+ st.size();
+        return count+ans;
 }
 }
