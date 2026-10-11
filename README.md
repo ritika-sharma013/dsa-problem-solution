@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/ritika-sharma013/dsa-problem-solution/tree/master/0539-minimum-time-difference) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ritika-sharma013/dsa-problem-solution/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2553-separate-the-digits-in-an-array](https://github.com/ritika-sharma013/dsa-problem-solution/tree/master/2553-separate-the-digits-in-an-array) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/ritika-sharma013/dsa-problem-solution/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Simulation
 |  |
 | ------- |
@@ -79,4 +80,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ritika-sharma013/dsa-problem-solution/tree/master/2333-minimum-sum-of-squared-difference) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/ritika-sharma013/dsa-problem-solution/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
