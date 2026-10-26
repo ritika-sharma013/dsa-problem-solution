@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/ritika-sharma013/dsa-problem-solution/tree/master/0128-longest-consecutive-sequence) |
 | [0164-maximum-gap](https://github.com/ritika-sharma013/dsa-problem-solution/tree/master/0164-maximum-gap) |
 | [0238-product-of-array-except-self](https://github.com/ritika-sharma013/dsa-problem-solution/tree/master/0238-product-of-array-except-self) |
 | [0334-increasing-triplet-subsequence](https://github.com/ritika-sharma013/dsa-problem-solution/tree/master/0334-increasing-triplet-subsequence) |
@@ -117,4 +118,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/ritika-sharma013/dsa-problem-solution/tree/master/0164-maximum-gap) |
+## Hash Table
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/ritika-sharma013/dsa-problem-solution/tree/master/0128-longest-consecutive-sequence) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/ritika-sharma013/dsa-problem-solution/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
