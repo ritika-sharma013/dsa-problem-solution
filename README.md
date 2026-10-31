@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/ritika-sharma013/dsa-problem-solution/tree/master/0032-longest-valid-parentheses) |
 | [0301-remove-invalid-parentheses](https://github.com/ritika-sharma013/dsa-problem-solution/tree/master/0301-remove-invalid-parentheses) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/ritika-sharma013/dsa-problem-solution/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0412-fizz-buzz](https://github.com/ritika-sharma013/dsa-problem-solution/tree/master/0412-fizz-buzz) |
 | [0539-minimum-time-difference](https://github.com/ritika-sharma013/dsa-problem-solution/tree/master/0539-minimum-time-difference) |
 | [0678-valid-parenthesis-string](https://github.com/ritika-sharma013/dsa-problem-solution/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/ritika-sharma013/dsa-problem-solution/tree/master/0856-score-of-parentheses) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/ritika-sharma013/dsa-problem-solution/tree/master/0412-fizz-buzz) |
 | [2553-separate-the-digits-in-an-array](https://github.com/ritika-sharma013/dsa-problem-solution/tree/master/2553-separate-the-digits-in-an-array) |
 ## Greedy
 |  |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/ritika-sharma013/dsa-problem-solution/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0412-fizz-buzz](https://github.com/ritika-sharma013/dsa-problem-solution/tree/master/0412-fizz-buzz) |
 | [0539-minimum-time-difference](https://github.com/ritika-sharma013/dsa-problem-solution/tree/master/0539-minimum-time-difference) |
 ## Sorting
 |  |
