@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/ritika-sharma013/dsa-problem-solution/tree/master/0164-maximum-gap) |
 | [0238-product-of-array-except-self](https://github.com/ritika-sharma013/dsa-problem-solution/tree/master/0238-product-of-array-except-self) |
 | [0334-increasing-triplet-subsequence](https://github.com/ritika-sharma013/dsa-problem-solution/tree/master/0334-increasing-triplet-subsequence) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/ritika-sharma013/dsa-problem-solution/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0539-minimum-time-difference](https://github.com/ritika-sharma013/dsa-problem-solution/tree/master/0539-minimum-time-difference) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ritika-sharma013/dsa-problem-solution/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ritika-sharma013/dsa-problem-solution/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/ritika-sharma013/dsa-problem-solution/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/ritika-sharma013/dsa-problem-solution/tree/master/0412-fizz-buzz) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/ritika-sharma013/dsa-problem-solution/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0539-minimum-time-difference](https://github.com/ritika-sharma013/dsa-problem-solution/tree/master/0539-minimum-time-difference) |
 ## Sorting
 |  |
