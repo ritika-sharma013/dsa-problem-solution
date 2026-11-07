@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/ritika-sharma013/dsa-problem-solution/tree/master/0032-longest-valid-parentheses) |
+| [0242-valid-anagram](https://github.com/ritika-sharma013/dsa-problem-solution/tree/master/0242-valid-anagram) |
 | [0301-remove-invalid-parentheses](https://github.com/ritika-sharma013/dsa-problem-solution/tree/master/0301-remove-invalid-parentheses) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/ritika-sharma013/dsa-problem-solution/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/ritika-sharma013/dsa-problem-solution/tree/master/0412-fizz-buzz) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/ritika-sharma013/dsa-problem-solution/tree/master/0164-maximum-gap) |
+| [0242-valid-anagram](https://github.com/ritika-sharma013/dsa-problem-solution/tree/master/0242-valid-anagram) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ritika-sharma013/dsa-problem-solution/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0539-minimum-time-difference](https://github.com/ritika-sharma013/dsa-problem-solution/tree/master/0539-minimum-time-difference) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ritika-sharma013/dsa-problem-solution/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/ritika-sharma013/dsa-problem-solution/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/ritika-sharma013/dsa-problem-solution/tree/master/0128-longest-consecutive-sequence) |
+| [0242-valid-anagram](https://github.com/ritika-sharma013/dsa-problem-solution/tree/master/0242-valid-anagram) |
 ## Union-Find
 |  |
 | ------- |
