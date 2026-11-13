@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/ritika-sharma013/dsa-problem-solution/tree/master/0412-fizz-buzz) |
 | [0539-minimum-time-difference](https://github.com/ritika-sharma013/dsa-problem-solution/tree/master/0539-minimum-time-difference) |
 | [0678-valid-parenthesis-string](https://github.com/ritika-sharma013/dsa-problem-solution/tree/master/0678-valid-parenthesis-string) |
+| [0709-to-lower-case](https://github.com/ritika-sharma013/dsa-problem-solution/tree/master/0709-to-lower-case) |
 | [0856-score-of-parentheses](https://github.com/ritika-sharma013/dsa-problem-solution/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ritika-sharma013/dsa-problem-solution/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/ritika-sharma013/dsa-problem-solution/tree/master/1021-remove-outermost-parentheses) |
