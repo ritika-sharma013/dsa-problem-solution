@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ritika-sharma013/dsa-problem-solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0032-longest-valid-parentheses](https://github.com/ritika-sharma013/dsa-problem-solution/tree/master/0032-longest-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/ritika-sharma013/dsa-problem-solution/tree/master/0242-valid-anagram) |
 | [0301-remove-invalid-parentheses](https://github.com/ritika-sharma013/dsa-problem-solution/tree/master/0301-remove-invalid-parentheses) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ritika-sharma013/dsa-problem-solution/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ritika-sharma013/dsa-problem-solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0128-longest-consecutive-sequence](https://github.com/ritika-sharma013/dsa-problem-solution/tree/master/0128-longest-consecutive-sequence) |
 | [0242-valid-anagram](https://github.com/ritika-sharma013/dsa-problem-solution/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/ritika-sharma013/dsa-problem-solution/tree/master/0347-top-k-frequent-elements) |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ritika-sharma013/dsa-problem-solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [3364-minimum-positive-sum-subarray](https://github.com/ritika-sharma013/dsa-problem-solution/tree/master/3364-minimum-positive-sum-subarray) |
 ## Divide and Conquer
 |  |
