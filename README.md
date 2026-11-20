@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/ritika-sharma013/dsa-problem-solution/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/ritika-sharma013/dsa-problem-solution/tree/master/0678-valid-parenthesis-string) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/ritika-sharma013/dsa-problem-solution/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 ## Stack
 |  |
 | ------- |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2553-separate-the-digits-in-an-array](https://github.com/ritika-sharma013/dsa-problem-solution/tree/master/2553-separate-the-digits-in-an-array) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/ritika-sharma013/dsa-problem-solution/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ritika-sharma013/dsa-problem-solution/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/ritika-sharma013/dsa-problem-solution/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/ritika-sharma013/dsa-problem-solution/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3364-minimum-positive-sum-subarray](https://github.com/ritika-sharma013/dsa-problem-solution/tree/master/3364-minimum-positive-sum-subarray) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/ritika-sharma013/dsa-problem-solution/tree/master/3644-maximum-k-to-sort-a-permutation) |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/ritika-sharma013/dsa-problem-solution/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ritika-sharma013/dsa-problem-solution/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/ritika-sharma013/dsa-problem-solution/tree/master/2567-minimum-score-by-changing-two-elements) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/ritika-sharma013/dsa-problem-solution/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 ## Backtracking
 |  |
 | ------- |
