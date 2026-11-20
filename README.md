@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/ritika-sharma013/dsa-problem-solution/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/ritika-sharma013/dsa-problem-solution/tree/master/0128-longest-consecutive-sequence) |
 | [0164-maximum-gap](https://github.com/ritika-sharma013/dsa-problem-solution/tree/master/0164-maximum-gap) |
+| [0215-kth-largest-element-in-an-array](https://github.com/ritika-sharma013/dsa-problem-solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/ritika-sharma013/dsa-problem-solution/tree/master/0238-product-of-array-except-self) |
 | [0334-increasing-triplet-subsequence](https://github.com/ritika-sharma013/dsa-problem-solution/tree/master/0334-increasing-triplet-subsequence) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ritika-sharma013/dsa-problem-solution/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/ritika-sharma013/dsa-problem-solution/tree/master/0164-maximum-gap) |
+| [0215-kth-largest-element-in-an-array](https://github.com/ritika-sharma013/dsa-problem-solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/ritika-sharma013/dsa-problem-solution/tree/master/0242-valid-anagram) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ritika-sharma013/dsa-problem-solution/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0539-minimum-time-difference](https://github.com/ritika-sharma013/dsa-problem-solution/tree/master/0539-minimum-time-difference) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/ritika-sharma013/dsa-problem-solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ritika-sharma013/dsa-problem-solution/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Enumeration
 |  |
@@ -161,4 +164,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3364-minimum-positive-sum-subarray](https://github.com/ritika-sharma013/dsa-problem-solution/tree/master/3364-minimum-positive-sum-subarray) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/ritika-sharma013/dsa-problem-solution/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/ritika-sharma013/dsa-problem-solution/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
