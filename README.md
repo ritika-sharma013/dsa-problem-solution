@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/ritika-sharma013/dsa-problem-solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/ritika-sharma013/dsa-problem-solution/tree/master/0238-product-of-array-except-self) |
 | [0334-increasing-triplet-subsequence](https://github.com/ritika-sharma013/dsa-problem-solution/tree/master/0334-increasing-triplet-subsequence) |
+| [0347-top-k-frequent-elements](https://github.com/ritika-sharma013/dsa-problem-solution/tree/master/0347-top-k-frequent-elements) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ritika-sharma013/dsa-problem-solution/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ritika-sharma013/dsa-problem-solution/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0539-minimum-time-difference](https://github.com/ritika-sharma013/dsa-problem-solution/tree/master/0539-minimum-time-difference) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/ritika-sharma013/dsa-problem-solution/tree/master/0164-maximum-gap) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ritika-sharma013/dsa-problem-solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/ritika-sharma013/dsa-problem-solution/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/ritika-sharma013/dsa-problem-solution/tree/master/0347-top-k-frequent-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ritika-sharma013/dsa-problem-solution/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0539-minimum-time-difference](https://github.com/ritika-sharma013/dsa-problem-solution/tree/master/0539-minimum-time-difference) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ritika-sharma013/dsa-problem-solution/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ritika-sharma013/dsa-problem-solution/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/ritika-sharma013/dsa-problem-solution/tree/master/0347-top-k-frequent-elements) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ritika-sharma013/dsa-problem-solution/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Enumeration
 |  |
@@ -141,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/ritika-sharma013/dsa-problem-solution/tree/master/0164-maximum-gap) |
+| [0347-top-k-frequent-elements](https://github.com/ritika-sharma013/dsa-problem-solution/tree/master/0347-top-k-frequent-elements) |
 ## Radix Sort
 |  |
 | ------- |
@@ -155,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/ritika-sharma013/dsa-problem-solution/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/ritika-sharma013/dsa-problem-solution/tree/master/0128-longest-consecutive-sequence) |
 | [0242-valid-anagram](https://github.com/ritika-sharma013/dsa-problem-solution/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/ritika-sharma013/dsa-problem-solution/tree/master/0347-top-k-frequent-elements) |
 | [0771-jewels-and-stones](https://github.com/ritika-sharma013/dsa-problem-solution/tree/master/0771-jewels-and-stones) |
 ## Union-Find
 |  |
@@ -168,8 +173,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ritika-sharma013/dsa-problem-solution/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/ritika-sharma013/dsa-problem-solution/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ritika-sharma013/dsa-problem-solution/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/ritika-sharma013/dsa-problem-solution/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/ritika-sharma013/dsa-problem-solution/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
