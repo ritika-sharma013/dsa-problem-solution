@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/ritika-sharma013/dsa-problem-solution/tree/master/0539-minimum-time-difference) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ritika-sharma013/dsa-problem-solution/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ritika-sharma013/dsa-problem-solution/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2401-longest-nice-subarray](https://github.com/ritika-sharma013/dsa-problem-solution/tree/master/2401-longest-nice-subarray) |
 | [2553-separate-the-digits-in-an-array](https://github.com/ritika-sharma013/dsa-problem-solution/tree/master/2553-separate-the-digits-in-an-array) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/ritika-sharma013/dsa-problem-solution/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ritika-sharma013/dsa-problem-solution/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/ritika-sharma013/dsa-problem-solution/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [2401-longest-nice-subarray](https://github.com/ritika-sharma013/dsa-problem-solution/tree/master/2401-longest-nice-subarray) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/ritika-sharma013/dsa-problem-solution/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Longest Increasing Subsequence
 |  |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ritika-sharma013/dsa-problem-solution/tree/master/0003-longest-substring-without-repeating-characters) |
+| [2401-longest-nice-subarray](https://github.com/ritika-sharma013/dsa-problem-solution/tree/master/2401-longest-nice-subarray) |
 | [3364-minimum-positive-sum-subarray](https://github.com/ritika-sharma013/dsa-problem-solution/tree/master/3364-minimum-positive-sum-subarray) |
 ## Divide and Conquer
 |  |
