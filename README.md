@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0201-bitwise-and-of-numbers-range](https://github.com/ritika-sharma013/dsa-problem-solution/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/ritika-sharma013/dsa-problem-solution/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [2401-longest-nice-subarray](https://github.com/ritika-sharma013/dsa-problem-solution/tree/master/2401-longest-nice-subarray) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/ritika-sharma013/dsa-problem-solution/tree/master/3644-maximum-k-to-sort-a-permutation) |
