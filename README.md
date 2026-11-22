@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/ritika-sharma013/dsa-problem-solution/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/ritika-sharma013/dsa-problem-solution/tree/master/0128-longest-consecutive-sequence) |
+| [0136-single-number](https://github.com/ritika-sharma013/dsa-problem-solution/tree/master/0136-single-number) |
 | [0164-maximum-gap](https://github.com/ritika-sharma013/dsa-problem-solution/tree/master/0164-maximum-gap) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ritika-sharma013/dsa-problem-solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/ritika-sharma013/dsa-problem-solution/tree/master/0238-product-of-array-except-self) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/ritika-sharma013/dsa-problem-solution/tree/master/0136-single-number) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/ritika-sharma013/dsa-problem-solution/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/ritika-sharma013/dsa-problem-solution/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [2401-longest-nice-subarray](https://github.com/ritika-sharma013/dsa-problem-solution/tree/master/2401-longest-nice-subarray) |
