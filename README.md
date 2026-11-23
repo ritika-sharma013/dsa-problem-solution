@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0301-remove-invalid-parentheses](https://github.com/ritika-sharma013/dsa-problem-solution/tree/master/0301-remove-invalid-parentheses) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/ritika-sharma013/dsa-problem-solution/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/ritika-sharma013/dsa-problem-solution/tree/master/0412-fizz-buzz) |
+| [0434-number-of-segments-in-a-string](https://github.com/ritika-sharma013/dsa-problem-solution/tree/master/0434-number-of-segments-in-a-string) |
 | [0539-minimum-time-difference](https://github.com/ritika-sharma013/dsa-problem-solution/tree/master/0539-minimum-time-difference) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/ritika-sharma013/dsa-problem-solution/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0678-valid-parenthesis-string](https://github.com/ritika-sharma013/dsa-problem-solution/tree/master/0678-valid-parenthesis-string) |
