@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/ritika-sharma013/dsa-problem-solution/tree/master/0412-fizz-buzz) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/ritika-sharma013/dsa-problem-solution/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2553-separate-the-digits-in-an-array](https://github.com/ritika-sharma013/dsa-problem-solution/tree/master/2553-separate-the-digits-in-an-array) |
+| [3360-stone-removal-game](https://github.com/ritika-sharma013/dsa-problem-solution/tree/master/3360-stone-removal-game) |
 ## Greedy
 |  |
 | ------- |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/ritika-sharma013/dsa-problem-solution/tree/master/0539-minimum-time-difference) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/ritika-sharma013/dsa-problem-solution/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1352-product-of-the-last-k-numbers](https://github.com/ritika-sharma013/dsa-problem-solution/tree/master/1352-product-of-the-last-k-numbers) |
+| [3360-stone-removal-game](https://github.com/ritika-sharma013/dsa-problem-solution/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/ritika-sharma013/dsa-problem-solution/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/ritika-sharma013/dsa-problem-solution/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Sorting
