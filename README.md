@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/ritika-sharma013/dsa-problem-solution/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/ritika-sharma013/dsa-problem-solution/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/ritika-sharma013/dsa-problem-solution/tree/master/0287-find-the-duplicate-number) |
+| [0330-patching-array](https://github.com/ritika-sharma013/dsa-problem-solution/tree/master/0330-patching-array) |
 | [0334-increasing-triplet-subsequence](https://github.com/ritika-sharma013/dsa-problem-solution/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/ritika-sharma013/dsa-problem-solution/tree/master/0347-top-k-frequent-elements) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ritika-sharma013/dsa-problem-solution/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0330-patching-array](https://github.com/ritika-sharma013/dsa-problem-solution/tree/master/0330-patching-array) |
 | [0334-increasing-triplet-subsequence](https://github.com/ritika-sharma013/dsa-problem-solution/tree/master/0334-increasing-triplet-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/ritika-sharma013/dsa-problem-solution/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ritika-sharma013/dsa-problem-solution/tree/master/0921-minimum-add-to-make-parentheses-valid) |
